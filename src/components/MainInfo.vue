@@ -4,7 +4,7 @@
       <h1>СОЗДАЙ <span>НОВУЮ ФОРМУ</span> ДЛЯ ЛЮБИМОЙ КОМАНДЫ И <span>ПОЛУЧИ ПРИЗ</span></h1>
       <div class="main_info_subtitle">Для участия необязательны графические редакторы, главное – идея!</div>
       <main-button/>
-      <div class="main_info_deadline">Заявки принимаются <span>до 15 января</span></div>
+      <div class="main_info_deadline">Заявки принимаются <span>до 20 января</span></div>
       <div class="main_info_descr">
         <img src="/thunder.svg" alt="thunder">
         <p>Прими участие в создании дизайна новой формы для баскетбольного клуба «Автодор» в ЕЛ ВТБ и получи <span>денежный приз!</span>
