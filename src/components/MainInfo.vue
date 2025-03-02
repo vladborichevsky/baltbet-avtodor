@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="main_info_img">
-      <img src="/player.png" alt="player">
+      <img src="/player.webp" alt="player">
     </div>
   </div>
 </template>

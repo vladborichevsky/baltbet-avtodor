@@ -7,7 +7,7 @@
         Выбирать победителей будет жюри из игроков и тренеров команды, менеджмента «Автодора» и «Балтбета».
       </div>
     </div>
-    <img src="/versus.png" alt="versus_image">
+    <img src="/versus.webp" alt="versus_image" loading="lazy">
   </div>
 </template>
 

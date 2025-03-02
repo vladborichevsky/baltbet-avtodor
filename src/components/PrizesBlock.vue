@@ -1,11 +1,11 @@
 <template>
   <div class="prizes_block" id="prizes">
     <div class="prizes_block_first_line">
-      <img src="/1_place.png" alt="prize_image">
-      <img src="/2_place.png" alt="prize_image">
-      <img src="/3_place.png" alt="prize_image">
+      <img src="/1_place.webp" alt="prize_image" loading="lazy">
+      <img src="/2_place.webp" alt="prize_image" loading="lazy">
+      <img src="/3_place.webp" alt="prize_image" loading="lazy">
     </div>
-    <img class="prizes_block_second_line" src="/season_pass.svg" alt="season_pass">
+    <img class="prizes_block_second_line" src="/season_pass.svg" alt="season_pass" loading="lazy">
   </div>
 </template>
 
